@@ -5,4 +5,3 @@ Git has four lines.
 Git now has five lines.
 Creating a new branch is quick and simple.
 This is about branchManager test.
-we have got eighth line
