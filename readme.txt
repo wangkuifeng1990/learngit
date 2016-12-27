@@ -3,5 +3,3 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git has four lines.
 Git now has five lines.
-This is the sixth line,change happens again.
-This is the seventh line.
